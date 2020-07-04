@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Clipboard Cleaner</string>
-    <string name="done">Done</string>
+    <string name="done">Clipboard cleaned.</string>
 </resources>
